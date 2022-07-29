@@ -11,7 +11,7 @@ Attributes
 
 - ID: Customer's unique identifier - *Categotical*
 - Year_Birth: Customer's birth year - *Categorical*
-- Education: Customer's education level - *Categorical*
+- Education: Customer's education level - *Categorical(Ordinal)*
 - Marital_Status: Customer's marital status - *Categorical*
 - Income: Customer's yearly household income - *Quantitative*
 - Kidhome: Number of children in customer's household - *Categorical*
