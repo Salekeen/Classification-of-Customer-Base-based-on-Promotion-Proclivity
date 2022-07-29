@@ -32,19 +32,19 @@ Attributes
 **Promotion**
 
 - NumDealsPurchases: Number of purchases made with a discount - *Quantitative*
-- AcceptedCmp1: 1 if customer accepted the offer in the 1st campaign, 0 otherwise
-- AcceptedCmp2: 1 if customer accepted the offer in the 2nd campaign, 0 otherwise
-- AcceptedCmp3: 1 if customer accepted the offer in the 3rd campaign, 0 otherwise
-- AcceptedCmp4: 1 if customer accepted the offer in the 4th campaign, 0 otherwise
-- AcceptedCmp5: 1 if customer accepted the offer in the 5th campaign, 0 otherwise
-- Response: 1 if customer accepted the offer in the last campaign, 0 otherwise
+- AcceptedCmp1: 1 if customer accepted the offer in the 1st campaign, 0 otherwise - *Categorical*
+- AcceptedCmp2: 1 if customer accepted the offer in the 2nd campaign, 0 otherwise - *Categorical*
+- AcceptedCmp3: 1 if customer accepted the offer in the 3rd campaign, 0 otherwise - *Categorical*
+- AcceptedCmp4: 1 if customer accepted the offer in the 4th campaign, 0 otherwise - *Categorical*
+- AcceptedCmp5: 1 if customer accepted the offer in the 5th campaign, 0 otherwise - *Categorical*
+- Response: 1 if customer accepted the offer in the last campaign, 0 otherwise - *Categorical*
 
 **Place**
 
-- NumWebPurchases: Number of purchases made through the company’s website
-- NumCatalogPurchases: Number of purchases made using a catalogue
-- NumStorePurchases: Number of purchases made directly in stores
-- NumWebVisitsMonth: Number of visits to company’s website in the last month
+- NumWebPurchases: Number of purchases made through the company’s website - *Quantitative*
+- NumCatalogPurchases: Number of purchases made using a catalogue - *Quantitative*
+- NumStorePurchases: Number of purchases made directly in stores - *Quantitative*
+- NumWebVisitsMonth: Number of visits to company’s website in the last month - *Quantitative*
 
 
 ### Target
