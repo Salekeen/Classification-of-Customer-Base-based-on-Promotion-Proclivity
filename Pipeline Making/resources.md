@@ -1,3 +1,3 @@
 - https://towardsdatascience.com/pipeline-columntransformer-and-featureunion-explained-f5491f815f
 - https://towardsdatascience.com/4-scikit-learn-tools-every-data-scientist-should-use-4ee942958d9e
-
+- https://zluvsand.medium.com/
